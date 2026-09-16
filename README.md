@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · OgLR8D4m -->
-## Notification 1/2
-Round: Round 1
-To: mohara@global-foresight.net, slbrown@executivesolutionsllc.com
-At: 2026-09-16 14:00:18
-Id: OgLR8D4m
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: wcbibb@pacbell.net, makies1@comcast.net
+At: 2026-09-16 14:00:27
+Id: 3HL9UPfa
